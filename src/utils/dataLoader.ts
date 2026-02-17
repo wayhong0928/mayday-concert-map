@@ -16,8 +16,8 @@ export async function fetchAllConcerts(): Promise<Concert[]> {
   try {
     // Parallel Fetching - 同時載入三個 JSON 檔案
     const [venuesData, concertsData] = await Promise.all([
-      fetch('/data/venues.json').then((res) => res.json() as Promise<VenuesData>),
-      fetch('/data/concerts.json').then((res) => res.json() as Promise<ConcertRaw[]>),
+      fetch(`${import.meta.env.BASE_URL}data/venues.json`).then((res) => res.json() as Promise<VenuesData>),
+      fetch(`${import.meta.env.BASE_URL}data/concerts.json`).then((res) => res.json() as Promise<ConcertRaw[]>),
     ])
 
     // Runtime Join - 將場館資訊注入到演唱會資料中
@@ -58,7 +58,7 @@ export async function fetchAllConcerts(): Promise<Concert[]> {
  */
 export async function fetchVenues(): Promise<VenuesData> {
   try {
-    const response = await fetch('/data/venues.json')
+    const response = await fetch(`${import.meta.env.BASE_URL}data/venues.json`)
     return await response.json()
   } catch (error) {
     console.error('Failed to fetch venues:', error)
@@ -71,7 +71,7 @@ export async function fetchVenues(): Promise<VenuesData> {
  */
 export async function fetchTours(): Promise<Tour[]> {
   try {
-    const response = await fetch('/data/tours.json')
+    const response = await fetch(`${import.meta.env.BASE_URL}data/tours.json`)
     return await response.json()
   } catch (error) {
     console.error('Failed to fetch tours:', error)
