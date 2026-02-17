@@ -1,0 +1,63 @@
+[
+  {
+    "id": "5525_return",
+    "name": {
+      "zh": "5525 回到那一天 (一般版)",
+      "en": "5525 Return to That Day"
+    },
+    "period": "2023-Present",
+    "description": "五月天25週年巡迴演唱會，重現歷年經典。",
+    "standard_main_set": [
+      { "seq": 1, "name": "OAOA" },
+      { "seq": 2, "name": "孫悟空" },
+      { "seq": 3, "name": "入陣曲" },
+      { "seq": 4, "name": "乾杯" },
+      { "seq": 5, "name": "透露" },
+      { "seq": 6, "name": "瘋狂世界" },
+      { "seq": 7, "name": "有些事現在不做 一輩子都不會做了 + 約翰藍儂", "is_medley": true },
+      { "seq": 8, "name": "志明與春嬌" },
+      { "seq": 9, "name": "終結孤單 + 憨人", "is_medley": true },
+      { "seq": 10, "name": "人生海海 + 相信", "is_medley": true },
+      { "seq": 11, "name": "九號球 + 恆星的恆心 + 時光機", "is_medley": true },
+      { "seq": 12, "name": "讓我照顧你" },
+      { "seq": 13, "name": "天使 + 一千個世紀", "is_medley": true },
+      { "seq": 14, "name": "我心中尚未崩壞的地方" },
+      { "seq": 15, "name": "我不願讓你一個人 + 諾亞方舟", "is_medley": true },
+      { "seq": 16, "name": "成名在望" },
+      { "seq": 17, "name": "DNA" },
+      { "seq": 18, "name": "戀愛ing" },
+      { "seq": 19, "name": "派對動物" },
+      { "seq": 20, "name": "離開地球表面" }
+    ]
+  },
+  {
+    "id": "5525_plus_one",
+    "name": {
+      "zh": "5525 回到那一天 (5525+1 特別版)",
+      "en": "5525 Return to That Day (+1 Edition)"
+    },
+    "period": "2024-Taipei",
+    "description": "台北大巨蛋限定版本，曲序與視覺呈現有所調整。",
+    "standard_main_set": [
+      { "seq": 1, "name": "OAOA" },
+      { "seq": 2, "name": "孫悟空" },
+      { "seq": 3, "name": "盛夏光年" },
+      { "seq": 4, "name": "乾杯" },
+      { "seq": 5, "name": "終結孤單" },
+      { "seq": 6, "name": "有些事現在不做 一輩子都不會做了 + 約翰藍儂", "is_medley": true },
+      { "seq": 7, "name": "成名在望 + 如果我們不曾相遇", "is_medley": true },
+      { "seq": 8, "name": "第二人生 + 星空", "is_medley": true },
+      { "seq": 9, "name": "我心中尚未崩壞的地方" },
+      { "seq": 10, "name": "最重要的小事" },
+      { "seq": 11, "name": "超人" },
+      { "seq": 12, "name": "九號球 + 恆星的恆心 + 時光機", "is_medley": true },
+      { "seq": 13, "name": "相信 + 人生海海", "is_medley": true },
+      { "seq": 14, "name": "愛情萬歲" },
+      { "seq": 15, "name": "瘋狂世界" },
+      { "seq": 16, "name": "軋車" },
+      { "seq": 17, "name": "派對動物" },
+      { "seq": 18, "name": "離開地球表面" },
+      { "seq": 19, "name": "戀愛ing" }
+    ]
+  }
+]

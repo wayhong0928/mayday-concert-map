@@ -1,0 +1,52 @@
+{
+  "tpe_dome": {
+    "id": "tpe_dome",
+    "name": {
+      "zh": "臺北大巨蛋",
+      "en": "Taipei Dome"
+    },
+    "city": "Taipei",
+    "coordinates": [25.0401, 121.5583],
+    "aliases": ["遠雄巨蛋"]
+  },
+  "hkg_central": {
+    "id": "hkg_central",
+    "name": {
+      "zh": "中環海濱活動空間",
+      "en": "Central Harbourfront Event Space"
+    },
+    "city": "Hong Kong",
+    "coordinates": [22.2855, 114.1616],
+    "aliases": []
+  },
+  "kcg_stadium": {
+    "id": "kcg_stadium",
+    "name": {
+      "zh": "高雄國家體育場",
+      "en": "Kaohsiung National Stadium"
+    },
+    "city": "Kaohsiung",
+    "coordinates": [22.7032, 120.2946],
+    "aliases": ["世運主場館", "龍騰體育場"]
+  },
+  "tpe_baseball_stadium": {
+    "id": "tpe_baseball_stadium",
+    "name": {
+      "zh": "臺中洲際棒球場",
+      "en": "Taichung Intercontinental Baseball Stadium"
+    },
+    "city": "Taichung",
+    "coordinates": [24.1997, 120.6851],
+    "aliases": []
+  },
+  "peking_bird_nest": {
+    "id": "peking_bird_nest",
+    "name": {
+      "zh": "國家體育場 (鳥巢)",
+      "en": "Beijing National Stadium"
+    },
+    "city": "Beijing",
+    "coordinates": [39.9929, 116.397],
+    "aliases": ["鳥巢"]
+  }
+}
