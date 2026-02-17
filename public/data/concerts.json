@@ -142,5 +142,223 @@
         "songs": [{ "name": "I Love You 無望" }, { "name": "為你寫下這首情歌 + 牙關", "is_medley": true }]
       }
     ]
+  },
+  {
+    "id": "20251227_taichung_d1",
+    "tour_ref": "5525_plus_one",
+    "venue_ref": "tpe_baseball_stadium",
+    "date": "2025-12-27",
+    "main_set_modifications": {
+      "added": [
+        { "after_seq": 16, "songs": [{ "name": "最好的一天" }] },
+        {
+          "after_seq": 19,
+          "songs": [
+            { "name": "步步", "is_request": true, "note": "石頭點漫遊區" },
+            { "name": "好好", "is_request": true, "note": "冠佑點看台區" },
+            { "name": "候鳥", "is_request": true, "note": "瑪莎點歌" },
+            { "name": "寵上出頭天", "is_request": true, "note": "怪獸點歌 (寵上天+出頭天)", "is_medley": true },
+            { "name": "勇敢", "is_request": true, "note": "阿信點歌" },
+            { "name": "任性" },
+            { "name": "突然好想你" },
+            { "name": "轉眼" },
+            { "name": "任意門" }
+          ]
+        }
+      ]
+    },
+    "encores": [
+      { "level": 1, "songs": [{ "name": "我不願讓你一個人" }, { "name": "笑忘歌" }, { "name": "倔強" }] },
+      { "level": 2, "songs": [{ "name": "傷心的人別聽慢歌" }, { "name": "第一天", "note": "煙火" }, { "name": "夜訪吸血鬼" }, { "name": "聽不到" }] },
+      { "level": 3, "songs": [{ "name": "憨人 + 心中無別人 + 啦啦啦", "is_medley": true }] }
+    ]
+  },
+  {
+    "id": "20251228_taichung_d2",
+    "tour_ref": "5525_plus_one",
+    "venue_ref": "tpe_baseball_stadium",
+    "date": "2025-12-28",
+    "main_set_modifications": {
+      "added": [
+        {
+          "after_seq": 16,
+          "songs": [
+            { "name": "青蘋果樂園+對你愛不完+射手+星期五晚上", "is_medley": true, "is_cover": true, "note": "feat. 丁噹" },
+            { "name": "派對動物", "note": "feat. 丁噹" },
+            { "name": "離開地球表面+愛的主打歌", "is_medley": true, "note": "feat. 丁噹" },
+            { "name": "最好的一天" }
+          ]
+        },
+        {
+          "after_seq": 19,
+          "songs": [
+            { "name": "入陣曲", "is_request": true, "note": "瑪莎點看台區" },
+            { "name": "你是唯一", "is_request": true, "note": "冠佑點漫遊區" },
+            { "name": "愛人啊", "is_request": true, "note": "石頭點歌 (阿信唱)" },
+            { "name": "垃圾車+小護士", "is_request": true, "note": "怪獸點歌", "is_medley": true },
+            { "name": "雨眠", "is_request": true, "note": "阿信點歌" },
+            { "name": "任性" },
+            { "name": "突然好想你" },
+            { "name": "轉眼" },
+            { "name": "任意門" }
+          ]
+        }
+      ]
+    },
+    "encores": [
+      { "level": 1, "songs": [{ "name": "私奔到月球", "note": "煙火" }, { "name": "傷心的人別聽慢歌" }, { "name": "第一天" }, { "name": "倔強" }] },
+      { "level": 2, "songs": [{ "name": "玫瑰少年" }, { "name": "忘詞" }, { "name": "洋蔥" }] },
+      { "level": 3, "songs": [{ "name": "笑忘歌", "note": "煙火" }, { "name": "憨人" }] }
+    ]
+  },
+  {
+    "id": "20251231_taichung_d3",
+    "tour_ref": "5525_plus_one",
+    "venue_ref": "tpe_baseball_stadium",
+    "date": "2025-12-31",
+    "time_info": { "start_time": "21:29" },
+    "main_set_modifications": {
+      "added": [
+        { "after_seq": 16, "songs": [{ "name": "最好的一天" }] },
+        {
+          "after_seq": 19,
+          "songs": [
+            { "name": "牙關", "is_request": true, "note": "冠佑點歌" },
+            { "name": "小時候", "is_request": true, "note": "瑪莎點歌" },
+            { "name": "月亮代表我的心", "is_request": true, "is_cover": true, "note": "石頭點歌" },
+            { "name": "開天窗", "is_request": true, "note": "怪獸點歌" },
+            { "name": "突然好想你" },
+            { "name": "轉眼" },
+            { "name": "任意門" }
+          ]
+        }
+      ]
+    },
+    "encores": [
+      { "level": 1, "songs": [{ "name": "你不是真正的快樂" }, { "name": "笑忘歌", "note": "新年願望/跨年倒數" }, { "name": "倔強" }] },
+      { "level": 2, "songs": [{ "name": "傷心的人別聽慢歌" }, { "name": "第一天" }, { "name": "你是唯一" }, { "name": "步步" }, { "name": "任性" }] },
+      { "level": 3, "songs": [{ "name": "頑固" }, { "name": "心中無別人" }] },
+      { "level": 4, "songs": [{ "name": "一顆蘋果" }, { "name": "如果我們不曾相遇" }] }
+    ]
+  },
+  {
+    "id": "20260101_taichung_d4",
+    "tour_ref": "5525_plus_one",
+    "venue_ref": "tpe_baseball_stadium",
+    "date": "2026-01-01",
+    "main_set_modifications": {
+      "added": [
+        { "after_seq": 16, "songs": [{ "name": "最好的一天" }] },
+        {
+          "after_seq": 19,
+          "songs": [
+            { "name": "將軍令", "is_request": true, "note": "石頭點歌" },
+            { "name": "青空未來", "is_request": true, "note": "冠佑點歌" },
+            { "name": "麥來亂", "is_request": true, "note": "瑪莎點歌" },
+            { "name": "好好", "is_request": true, "note": "怪獸點歌" },
+            { "name": "墓仔埔也敢去", "is_request": true, "is_cover": true, "note": "阿信點歌" },
+            { "name": "任性" },
+            { "name": "突然好想你" },
+            { "name": "轉眼" },
+            { "name": "任意門" }
+          ]
+        }
+      ]
+    },
+    "encores": [
+      { "level": 1, "songs": [{ "name": "超人", "note": "feat. 小玫瑰 & 冠佑" }, { "name": "我不願讓你一個人", "note": "feat. 小玫瑰 & 冠佑" }, { "name": "朋友而已", "note": "feat. 小玫瑰", "is_cover": true }, { "name": "笑忘歌" }, { "name": "倔強" }] },
+      { "level": 2, "songs": [{ "name": "傷心的人別聽慢歌" }, { "name": "第一天" }, { "name": "香水" }, { "name": "倉頡" }, { "name": "後來的我們" }] },
+      { "level": 3, "songs": [{ "name": "志明與春嬌" }] }
+    ]
+  },
+  {
+    "id": "20260103_taichung_d5",
+    "tour_ref": "5525_plus_one",
+    "venue_ref": "tpe_baseball_stadium",
+    "date": "2026-01-03",
+    "main_set_modifications": {
+      "added": [
+        { "after_seq": 16, "songs": [{ "name": "最好的一天" }] },
+        {
+          "after_seq": 19,
+          "songs": [
+            { "name": "生日快樂+這個世界", "is_request": true, "is_medley": true, "note": "瑪莎點歌" },
+            { "name": "輕功", "is_request": true, "note": "冠佑點歌" },
+            { "name": "米老鼠", "is_request": true, "note": "石頭點歌 (怪獸唱)" },
+            { "name": "純真", "is_request": true, "note": "怪獸點歌 (瑪莎唱)" },
+            { "name": "明白", "is_request": true, "note": "阿信點歌" },
+            { "name": "任性" },
+            { "name": "突然好想你" },
+            { "name": "轉眼" },
+            { "name": "任意門" }
+          ]
+        }
+      ]
+    },
+    "encores": [
+      { "level": 1, "songs": [{ "name": "私奔到月球", "note": "煙火" }, { "name": "笑忘歌", "note": "煙火" }, { "name": "倔強" }] },
+      { "level": 2, "songs": [{ "name": "傷心的人別聽慢歌" }, { "name": "第一天" }, { "name": "羅密歐與茱麗葉" }, { "name": "溫柔" }] },
+      { "level": 3, "songs": [{ "name": "知足", "is_request": true }, { "name": "頑固" }] }
+    ]
+  },
+  {
+    "id": "20260104_taichung_d6",
+    "tour_ref": "5525_plus_one",
+    "venue_ref": "tpe_baseball_stadium",
+    "date": "2026-01-04",
+    "main_set_modifications": {
+      "added": [
+        { "after_seq": 16, "songs": [{ "name": "最好的一天" }] },
+        {
+          "after_seq": 19,
+          "songs": [
+            { "name": "心中無別人", "is_request": true, "note": "瑪莎點歌" },
+            { "name": "黑白講", "is_request": true, "note": "冠佑點歌 (怪獸唱)" },
+            { "name": "晚安地球人", "is_request": true, "note": "石頭點歌" },
+            { "name": "天使", "is_request": true, "note": "怪獸點歌 (怪獸唱)" },
+            { "name": "純真", "is_request": true, "note": "阿信點歌" },
+            { "name": "任性" },
+            { "name": "突然好想你" },
+            { "name": "轉眼" },
+            { "name": "任意門" }
+          ]
+        }
+      ]
+    },
+    "encores": [
+      { "level": 1, "songs": [{ "name": "你不是真正的快樂" }, { "name": "笑忘歌", "note": "煙火" }, { "name": "倔強" }] },
+      { "level": 2, "songs": [{ "name": "傷心的人別聽慢歌" }, { "name": "第一天" }, { "name": "雌雄同體" }, { "name": "候鳥", "note": "新動畫" }, { "name": "I LOVE YOU 無望" }] },
+      { "level": 3, "songs": [{ "name": "後青春的詩 + 如果我們不曾相遇 + 出頭天 + 志明與春嬌", "is_medley": true }] }
+    ]
+  },
+  {
+    "id": "20260131_malaysia",
+    "tour_ref": "5525_return",
+    "venue_ref": "mys_national_stadium",
+    "date": "2026-01-31",
+    "main_set_modifications": {
+      "added": [
+        {
+          "after_seq": 19,
+          "songs": [
+            { "name": "最重要的小事", "is_request": true },
+            { "name": "好不好", "is_request": true },
+            { "name": "亂世浮生", "is_request": true },
+            { "name": "擁抱", "is_request": true },
+            { "name": "任性" },
+            { "name": "外人", "note": "feat. 蕭秉治", "is_cover": true },
+            { "name": "突然好想你" },
+            { "name": "轉眼" },
+            { "name": "任意門" }
+          ]
+        }
+      ]
+    },
+    "encores": [
+      { "level": 1, "songs": [{ "name": "知足" }, { "name": "溫柔" }, { "name": "笑忘歌" }, { "name": "倔強" }] },
+      { "level": 2, "songs": [{ "name": "傷心的人別聽慢歌" }, { "name": "第一天" }, { "name": "私奔到月球" }, { "name": "你是唯一" }, { "name": "聽不到" }] },
+      { "level": 3, "songs": [{ "name": "心中無別人" }, { "name": "憨人" }] }
+    ],
+    "note": "地球上最後一場 5525"
   }
 ]

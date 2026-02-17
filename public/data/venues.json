@@ -48,5 +48,15 @@
     "city": "Beijing",
     "coordinates": [39.9929, 116.397],
     "aliases": ["鳥巢"]
+  },
+  "mys_national_stadium": {
+    "id": "mys_national_stadium",
+    "name": {
+      "zh": "武吉加里爾國家體育場",
+      "en": "Bukit Jalil National Stadium"
+    },
+    "city": "Kuala Lumpur",
+    "coordinates": [3.0550, 101.6917],
+    "aliases": []
   }
 }

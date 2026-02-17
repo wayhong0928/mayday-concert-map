@@ -2,7 +2,7 @@
   {
     "id": "5525_return",
     "name": {
-      "zh": "5525 回到那一天 (一般版)",
+      "zh": "5525 回到那一天",
       "en": "5525 Return to That Day"
     },
     "period": "2023-Present",
@@ -33,11 +33,11 @@
   {
     "id": "5525_plus_one",
     "name": {
-      "zh": "5525 回到那一天 (5525+1 特別版)",
-      "en": "5525 Return to That Day (+1 Edition)"
+      "zh": "5525+1 回到那一天 (5525+1 特別版)",
+      "en": "5525+1 Return to That Day (+1 Edition)"
     },
     "period": "2024-Taipei",
-    "description": "台北大巨蛋限定版本，曲序與視覺呈現有所調整。",
+    "description": "曲序與視覺呈現有所調整。",
     "standard_main_set": [
       { "seq": 1, "name": "OAOA" },
       { "seq": 2, "name": "孫悟空" },
